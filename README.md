@@ -8,7 +8,7 @@ A complete school ecosystem to manage students, teachers, classes, attendance, m
 <div align="center">
 
 🌐 <a href="https://youtu.be/ol650KwQkgY?si=rKcboqSv3n-e4UbC"><b>▶️ Demo Video</b></a> •  
-💼 <a href="www.linkedin.com/in/varun-j0513"><b>Author LinkedIn</b></a>
+💼 <a href="https://www.linkedin.com/in/varun-j0513/"><b>Author LinkedIn</b></a>
 
 </div>
 
